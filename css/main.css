@@ -1,12 +1,17 @@
 html {
   background-color: #c9b5ab;
+  line-height: 1.5;
 }
 
 h1 {
   font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
+  text-size: 1.5rem;
 }
 
 li {
   font-family: 'PT Serif', serif;
   list-style-type: none;
+  color: #8f2440;
+  text-size: 1.125rem;
 }
