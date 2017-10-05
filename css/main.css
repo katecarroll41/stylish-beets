@@ -14,4 +14,5 @@ li {
   list-style-type: none;
   color: #8f2440;
   text-size: 1.125rem;
+  text-decoration: none;
 }
