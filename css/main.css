@@ -7,7 +7,7 @@ h1 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
   font-size: 1.5rem;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .nav {
@@ -16,7 +16,7 @@ h1 {
   color: #8f2440;
   font-size: 1.125rem;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 ul, li {
@@ -26,15 +26,16 @@ ul, li {
 }
 
 figcaption {
-  font-size: 0.8rem;
+  font-size: 1.125rem;
+  text-align: center;
 }
 
 b {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .date {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .circle {
@@ -49,7 +50,7 @@ dt, dd {
 h2 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .link {
@@ -58,4 +59,9 @@ h2 {
 
 footer {
   font-family: 'PT Sans', sans-serif;
+}
+
+.quote {
+  font-weight: bold;
+  font-size: 1.5rem;
 }
