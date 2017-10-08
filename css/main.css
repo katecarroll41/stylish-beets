@@ -78,9 +78,10 @@ a:hover {
 }
 
 img {
-  width: 500px;
+  width: 30rem;
 }
 
 a {
   font-size: .8rem;
+  text-decoration: none;
 }
