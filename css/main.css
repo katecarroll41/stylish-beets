@@ -11,7 +11,7 @@ h1 {
 }
 
 .nav {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   list-style-type: none;
   color: #8f2440;
   font-size: 1.125rem;
@@ -46,7 +46,7 @@ b {
 
 h2 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
 }
 
@@ -55,7 +55,7 @@ h2 {
 }
 
 footer {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 .quote {
