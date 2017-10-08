@@ -80,3 +80,7 @@ a:hover {
 img {
   width: 500px;
 }
+
+a {
+  font-size: .8rem;
+}
