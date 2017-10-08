@@ -76,3 +76,7 @@ a:hover {
   color: #222;
   text-decoration: none;
 }
+
+img {
+  width: 500;
+}
